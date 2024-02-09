@@ -65,8 +65,8 @@ p {
 img {
     margin: 0 auto;
     display: block; 
-    width: 400px;
-    height: 200px;
+    width: 200px;
+    height: 150px;
 }
 
 table {
@@ -79,4 +79,11 @@ th, td {
     border: 1px solid #333; 
     padding: 8px;
     text-align: left;
+}
+
+iframe {
+    margin: 0 auto;
+    display: block; 
+    width: 560px;
+    height: 315px;
 }
